@@ -3,7 +3,11 @@
 } 
   
 body, html {
-  background-color: darkgray;
+  background-color: rgb(35, 34, 34)
 }
 
-/* When will we work on this again? */
+#title, #description, #mtd, #discord-server-text {
+  color: white;
+}
+
+/* Happy birthday, Sasuki! -void */
