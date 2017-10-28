@@ -6,8 +6,18 @@ body, html {
   background-color: rgb(35, 34, 34)
 }
 
+/* 
+This block of code is for every piece of text including the text above the discord server widget.
+It is being commented out because we're trying to fix the issue regarding the widget not loading ASAP. Until then, this stays commented.
+
 #title, #description, #mtd, #discord-server-text {
   color: white;
-}
+} 
+*/
 
-/* Happy birthday, Sasuki! -void */
+/* Temporary back-up while we fix the widget! */
+#title, #description, #mtd {
+  color: white;
+} 
+
+/* I really, really, really like this file */
